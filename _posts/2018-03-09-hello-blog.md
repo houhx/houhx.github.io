@@ -12,16 +12,4 @@ tags: 博客
 
 
 
-## 你好  
-
-LKLKH:  
-
-+ KLLJ
-
-+ LJLK
-
-+ #### NJH
-
-+ #### GJHJH
-
-+ J
+## welcome to my gitpage!
