@@ -9,7 +9,7 @@ tags: 博客
 # 下载Git
 + 去[git](https://git-scm.com/)官网，下载Windows相应版本的Git
 + 最好装Setup版的，因为Portable的占用空间比较大，具体原因[见这](https://www.cnblogs.com/leading/archive/2012/03/02/better-not-use-git-for-windows-portable.html)
-+ 装成功后，在桌面右键鼠标应该是这样,有GUI和Bash两个选项:
++ 装成功后，在桌面右键鼠标应该是这样,有GUI和Bash两个选项:  
 ![](../assets/github桌面右键图.PNG)
 
 
